@@ -1,6 +1,8 @@
 # FACE VERIFICATION WITH LIVENESS DETECTION
 
+
 ![Flow of the Setup](pics/Flowchart.png)
+
 
 <p style='text-align: justify;'> Many developments have taken place in the field of face-recognition and liveness analysis to improvise various
 device securities and attendance verification systems. Many
@@ -25,4 +27,11 @@ were used to check the liveness of the person’s face by asking
 them to perform some tasks in a random order like moving their
 head towards right or smile etc. </p>
 
+
 ![Liveness Test](pics/Test.png)
+
+
+## Testing Video
+
+
+![test_mobilefront](https://user-images.githubusercontent.com/51282617/87222313-60811280-c390-11ea-8d1a-c7a419fbe261.gif)
