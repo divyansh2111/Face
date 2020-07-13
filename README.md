@@ -27,10 +27,6 @@ were used to check the liveness of the person’s face by asking
 them to perform some tasks in a random order like moving their
 head towards right or smile etc. </p>
 
-
-![Liveness Test](pics/Test.png)
-
-
 ## Testing Video
 
 
